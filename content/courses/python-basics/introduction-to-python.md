@@ -156,11 +156,11 @@ plt.show()
 
 ## Fórmulas com LaTeX
 
-A fórmula da área de um círculo é:
+A fórmula da área de um círculo é $A = \pi r^2$:
 
-$$
+:::{math} :label: eq:Área do Quadrado
 A = \pi r^2
-$$
+:::
 
 ## Exercício
 
