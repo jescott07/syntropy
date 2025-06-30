@@ -1,8 +1,7 @@
 # Introdução ao Python
 
-:::{figure} /images/python-img.png
+:::{figure} /images/python-img.jpg
 :alt: Logo do Python
-:width: 200px
 :align: center
 :::
 
