@@ -1,7 +1,9 @@
 # Introdução ao Python
 
-:::{toc}
-:depth: 2
+:::{figure} /images/python-img.png
+:alt: Logo do Python
+:width: 200px
+:align: center
 :::
 
 Python é uma linguagem de programação de alto nível, interpretada e de tipagem dinâmica, amplamente utilizada em ciência de dados, desenvolvimento web, automação, inteligência artificial, entre outros.
